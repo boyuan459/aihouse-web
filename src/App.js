@@ -8,7 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Docker is awesome, kubernetes is better!
+          Life is mush easier with Docker and kubernetes!
         </p>
         <a
           className="App-link"
